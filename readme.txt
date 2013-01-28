@@ -3,4 +3,5 @@ Change
 Change
 bugFix
 Started newFeature
+Continued newFeature
 
